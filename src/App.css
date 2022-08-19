@@ -1,0 +1,265 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.listoftable{
+  text-align: center;
+  background-color: aquamarine;
+  height: 100vh;
+}
+.listoftable1{
+ width: 30%;
+  background-color: aquamarine;
+  border-radius: 11px;
+  text-align: center;
+  margin-left: 38%;
+  padding-bottom: 25px;
+ 
+}
+
+.textview{
+
+ margin: 10px;
+  border-color: darkgreen;
+  border-radius: 8px;
+  display: flex;
+  padding: 10px;
+  text-align: center;
+  margin-left: 43%;
+}
+.h1tx{
+  padding-top: 14px;
+    font-size: 25px;
+}
+.pcounter{
+  text-align: center;
+}
+
+.pcounter12{
+  text-align: center;
+  line-height: 20px;
+  padding-bottom: 22px;
+}
+
+.pcounter1{
+  width: 30%;
+ background-color: #61dafb;
+  border-radius: 4px;
+  text-align: center;
+  margin-left: 38%;
+  padding-bottom: 25px;
+  color: rgb(255, 255, 255);
+}
+
+
+.udlist{
+  background: #108109;
+  color: aliceblue;
+  width: 100px;
+  border-radius: 7px;
+  border: 3px solid #cfcece;
+  font-size: 21px;
+  height: 45px;
+  margin-top: 9px;
+
+}
+.dllist{
+  background: #e10a0a;
+  color: aliceblue;
+  width: 100px;
+  border-radius: 7px;
+  border: 3px solid #cfcece;
+  font-size: 21px;
+  height: 45px;
+  margin-top: 9px;
+  
+}
+.vwlist{
+  background: #dfc401;
+  color: aliceblue;
+  width: 100px;
+  border-radius: 7px;
+  border: 3px solid #cfcece;
+  font-size: 21px;
+  height: 45px;
+  margin-top: 9px;
+}
+
+.exbtn{
+  background: #ed5e0a;
+  color: aliceblue;
+  width: 21%;
+  border-radius: 7px;
+  border: 3px solid #dd580a;
+  font-size: 18px;
+  height: 40px;
+  margin-top: 9px;
+  margin-bottom: 20px;
+}
+.listedfro1{
+  background-color: #ccf5c1;
+    margin-top: 10px;
+    display: inline-block;
+    width: 435px;
+    height: 390px;
+    border-radius: 2pc;
+    border: 2px solid #b7b7b7;
+    margin-left: -161px;
+}
+.listedfrist{
+  background-color: aliceblue;
+  width: 818px;
+  display: inline-block;
+  line-height: 28px;
+  padding-bottom: 16px;
+  margin-top: 57px;
+}
+.udlist1{
+  background: #108109;
+  color: aliceblue;
+  width: 140px;
+  border-radius: 7px;
+  border: 3px solid #cfcece;
+  font-size: 21px;
+  height: 45px;
+  margin-top: 9px;
+}
+
+.listedfro2{
+  border-radius: 4px;
+  background-color: #efefef80;
+ 
+  display: block;
+  width: 518px;
+  word-spacing: 4px;
+  position: fixed;
+  border: 1px solid #026df1a3;
+  margin-left: 385px;
+  padding-left: 44px;
+}
+.listedfro{
+  border-radius: 4px;
+  background-color: #efefef80;
+  margin-top: 45px;
+  display: block;
+  width: 804px;
+  word-spacing: 4px;
+  position: fixed;
+  border: 1px solid #e5e5e5;
+  margin-left: -170px;
+}
+
+.loginte{
+
+  background-image: url(./img/im1.png);
+  background-size: cover;
+  width: auto;
+  height: 800px;
+  background-color: aliceblue;
+  
+}
+.bgimglg{
+
+}
+.loginroom{
+
+ 
+  width: auto;
+  height: 800px;
+  background-color: white;
+}
+.loginte1{
+  margin-top: 10%;
+  padding-top: 3%;
+    background-color: white;
+    display: inline-block;
+    width: 29%;
+    height: auto;
+    border-radius: 2pc;
+    /* border: 2px solid #b7b7b7; */
+    box-shadow: 4px 5px 5px #747474;
+}
+.textviewl{
+
+  margin: 10px;
+    border-color: #ed5e0a;
+    border-radius: 27px;
+    display: flex;
+    padding: 3%;
+    text-align: center;
+    margin-left: 22%;
+    width: 40%;
+    position: relative;
+ }
+ .textview2{
+
+ 
+   border-color: darkgreen;
+   border-radius: 8px;
+   display: flex;
+   padding: 10px;
+   text-align: center;
+   margin-left: 28%;
+ }
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  text-align: initial;
+  padding: 33px;
+  line-height: 39px;
+  
+}
+.dsli{
+  background-color: aliceblue;
+    width: 175px;
+    height: 44px;
+    text-align: center;
+    font-weight: 700;
+    border-radius: 20px;
+    margin-bottom: 12px;
+}
+@media (max-width: 600px){
+  .loginte1 {
+
+    width: 91%;
+  }
+  
+}
